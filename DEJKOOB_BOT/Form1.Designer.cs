@@ -1561,7 +1561,7 @@
             this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.tabControl1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "dejkoob_bot";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this._closing);
             this.Load += new System.EventHandler(this.loadingForm);
             this.tabControl1.ResumeLayout(false);
