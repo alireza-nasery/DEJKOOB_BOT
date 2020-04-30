@@ -1,4 +1,4 @@
-# DEJKOOB_BOT [![version](https://img.shields.io/badge/version-1.0.1-yellow.svg)](https://semver.org)
+# DEJKOOB_BOT [![version](https://img.shields.io/badge/version-0.1-green.svg)](https://semver.org)
 Play the popular game [dejkoob.ir](http://www.dejkoob.ir/) automatically and professionally.
 This software does a series of repetitive tasks for you
 You don't have to spend a lot of time to become a top 10 anymore
