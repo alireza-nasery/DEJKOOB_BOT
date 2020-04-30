@@ -18,4 +18,7 @@ You don't have to spend a lot of time to become a top 10 anymore
 ![Annotation 2020-04-30 134547](https://user-images.githubusercontent.com/57312476/80693880-ee1ac900-8ae8-11ea-8201-a07de797bba1.png)
 
 # Required package
-- 
+- Selenium.Support.3.141.0
+- Selenium.WebDriver.3.141.0
+- Selenium.WebDriver.ChromeDriver.81.0.4044.6900
+
