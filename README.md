@@ -18,8 +18,8 @@ You don't have to spend a lot of time to become a top 10 anymore
 7. Upgrade all forces in each desired village
 
 
-![Annotation 2020-04-30 134429](https://user-images.githubusercontent.com/57312476/80693755-be6bc100-8ae8-11ea-8579-d4a4a09c130f.png)
-![Annotation 2020-04-30 134547](https://user-images.githubusercontent.com/57312476/80693880-ee1ac900-8ae8-11ea-8201-a07de797bba1.png)
+![00](https://user-images.githubusercontent.com/57312476/80697851-d6deda00-8aee-11ea-8f11-ebce5d0a6a3f.png)
+![01](https://user-images.githubusercontent.com/57312476/80697884-e5c58c80-8aee-11ea-9eee-359def0a1dea.png)
 
 # Required packages
 - Selenium.Support.3.141.0
