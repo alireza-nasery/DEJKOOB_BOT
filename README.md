@@ -7,6 +7,8 @@ You don't have to spend a lot of time to become a top 10 anymore
 
 - Microsoft Framework (.NET 4.7)
 
+# Supported languages
+- Persian
 
 # Features now
 1. Hold small and large celebrations in your desired villages along with resource adjustment if there are not enough resources
