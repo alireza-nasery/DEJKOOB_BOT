@@ -14,5 +14,4 @@ You don't have to spend a lot of time to become a top 10 anymore
 7. Upgrade all forces in each desired village
 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![dejkoob bot](https://user-images.githubusercontent.com/57312476/80693619-8bc1c880-8ae8-11ea-9670-7bc210610e27.png)
